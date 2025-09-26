@@ -7,7 +7,7 @@
 
 ## 🔬 About Me
 
-I'm passionate about multidisciplinary research, AI, and building open-source tools that make a difference. Currently, my focus is on multilingual thematic analysis and automation for digital platforms—especially in the context of social research and event management.
+I'm a researcher at Department of Business Economics, Health and Social Care of the University of Applied Sciences and Arts of Southern Switzerland (SUPSI). Previously, I collaborated with the Quality Assurance Service of USI Università della Svizzera italiana in mapping, analysing, and optimising internal processes and providing statistical support to other administrative services in the University. Moreover, I was a teaching assistant in several Marketing-related courses (i.e., Digital Marketing, Pricing and Market Research) as well as a researcher in the context of choice behavior.
 
 ---
 
@@ -16,7 +16,6 @@ I'm passionate about multidisciplinary research, AI, and building open-source to
 - **Natural Language Processing**
 - **Python & Data Science**
 - **Automation & Bots**
-- **Multilingual Analysis**
 - **Event-driven Applications**
 
 ---
