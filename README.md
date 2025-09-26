@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salvatore Maione
 
-**PhD Researcher @ SUPSI-DEASS-CPPS | University of Applied Sciences and Arts of Southern Switzerland (SUPSI)**  
+**PhD Researcher at [SUPSI-DEASS-CPPS](https://github.com/SUPSI-DEASS-CPPS) | University of Applied Sciences and Arts of Southern Switzerland (SUPSI)**  
 📍 Lugano, Switzerland
 
 ---
@@ -45,7 +45,3 @@ I'm passionate about multidisciplinary research, AI, and building open-source to
 ## ⚡ Fun Fact
 
 When I'm not coding, you might find me exploring the beautiful landscapes of Switzerland, learning new languages, or experimenting with new tech for social good.
-
----
-
-![SUPSI](https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo_of_SUPSI_Scuola_universitaria_professionale_della_Svizzera_italiana_02.jpg)
