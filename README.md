@@ -48,4 +48,4 @@ When I'm not coding, you might find me exploring the beautiful landscapes of Swi
 
 ---
 
-![SUPSI](https://upload.wikimedia.org/wikipedia/commons/3/3f/SUPSI_logo.png)
+![SUPSI](https://upload.wikimedia.org/wikipedia/commons/f/f9/Logo_of_SUPSI_Scuola_universitaria_professionale_della_Svizzera_italiana_02.jpg)
