@@ -30,7 +30,7 @@ I'm a researcher at Department of Business Economics, Health and Social Care of 
   *A utility for verifying references with automation, ideal for academic publishing and research.*
 
 - [Telegram Bot: Lugano Eventi](https://github.com/salvatoremaione/telegram-bot-lugano-eventi)
-- [Telegram Bot: Ticino Eventi](https://github.com/salvatoremaione/telegram-bot-ticino-eventi) 
+- [Telegram Bot: Ticino Eventi](https://github.com/salvatoremaione/telegram-bot-ticino-eventi)  
   *Stay up to date on local events via Telegram—automation meets community engagement!*
 
 ---
