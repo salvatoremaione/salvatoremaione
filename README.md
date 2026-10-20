@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salvatore Maione
 
-**PhD Researcher at [SUPSI-DEASS-CPPS](https://github.com/SUPSI-DEASS-CPPS) | University of Applied Sciences and Arts of Southern Switzerland (SUPSI)**  
+**PhD Researcher at [SUPSI-DEASS-CARES](https://github.com/SUPSI-DEASS-CARES) | University of Applied Sciences and Arts of Southern Switzerland (SUPSI)**  
 
 📍Lugano, Switzerland
 
