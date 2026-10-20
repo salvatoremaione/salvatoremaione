@@ -23,13 +23,14 @@ I'm a researcher at Department of Business Economics, Health and Social Care of 
 
 ## 🚀 Featured Projects
 
-- [Multilingual Thematic Analysis](https://github.com/SUPSI-DEASS-CPPS/multilingual_thematic_analysis)  
+- [Multilingual Thematic Analysis](https://github.com/SUPSI-DEASS-CARES/multilingual_thematic_analysis)  
   *An innovative toolkit for analyzing themes across multiple languages—designed for researchers and data scientists.*
 
 - [Ref-Verifier](https://github.com/salvatoremaione/ref-verifier)  
   *A utility for verifying references with automation, ideal for academic publishing and research.*
 
-- [Telegram Bots: Lugano & Ticino Eventi](https://github.com/salvatoremaione/telegram-bot-lugano-eventi)  
+- [Telegram Bot: Lugano Eventi](https://github.com/salvatoremaione/telegram-bot-lugano-eventi)
+- [Telegram Bot: Ticino Eventi](https://github.com/salvatoremaione/telegram-bot-ticino-eventi) 
   *Stay up to date on local events via Telegram—automation meets community engagement!*
 
 ---
